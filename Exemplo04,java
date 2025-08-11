@@ -1,0 +1,13 @@
+public class Exemplo04 {
+    public static void main(String[] args) {
+        
+        int numero = 5;
+
+        //CONDICIONAL COMPOSTA
+        if(numero % 2==0){
+            System.out.println("numero par");
+        }else{
+            System.out.println("número ímpar");
+        }
+    }
+}
